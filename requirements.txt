@@ -6,3 +6,4 @@ transformers
 pandas
 setuptools
 nltk
+numpy==1.26.4
