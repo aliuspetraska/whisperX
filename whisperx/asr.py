@@ -349,6 +349,7 @@ def load_model(whisper_arch,
     default_vad_options = {
         "vad_onset": 0.500,
         "vad_offset": 0.363
+
     }
 
     if vad_options is not None:
