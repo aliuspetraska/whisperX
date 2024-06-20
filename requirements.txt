@@ -1,6 +1,7 @@
 torch
 torchaudio
 torchvision
+pyannote.audio
 faster-whisper==1.0.2
 transformers
 pandas
